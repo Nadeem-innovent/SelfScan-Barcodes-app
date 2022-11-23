@@ -1,0 +1,167 @@
+<resources>
+
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+
+    <string name="googleMapApiKey">AIzaSyBVsHPgVwrSIMseuP1ZWfwkBRg04Bst9ZQ</string>
+    <string name="qr_code">QR Code</string>
+
+    <string-array name="language_spinner">
+        <item>English</item>
+        <item>اللغة العربية</item>
+        <item>اردو زبان</item>
+        <item>भारतीय भाषा</item>
+    </string-array>
+
+    <string name="app_name">ZebraApp</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="forkEye">ZebraApp</string>
+    <string name="userLogin">User Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="scanQRCode">Scan QR</string>
+    <string name="appVersion">App Version 1.0</string>
+    <string name="user">User: </string>
+    <string name="plant">Plant:</string>
+    <string name="operation">Operation</string>
+    <string name="systemStatus">System Status</string>
+    <string name="camera">Camera</string>
+    <string name="sensor">Sensor</string>
+    <string name="network">Network</string>
+    <string name="sensorStatus">Sensor Status</string>
+    <string name="palletsDropped">Pallets Dropped</string>
+    <string name="picture">Picture</string>
+    <string name="turnByTurn">Turn By Turn</string>
+    <string name="guide">Guide</string>
+    <string name="manualGPSScan">Manual GPS Scan</string>
+    <string name="transitTruck">Transit Truck</string>
+    <string name="shippingTruck">Shipping Truck</string>
+    <string name="inside">Inside</string>
+    <string name="pleaseSelectForm">L5 Keyboard</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="confirm">Confirm</string>
+    <string name="back">Back</string>
+    <string name="turnByTurnGuide">Turn By Turn Guide</string>
+    <string name="palletDetails">Pallet Details</string>
+    <string name="enterPalletNumber">Enter Pallet Number</string>
+    <string name="handlingUnit">Handling Unit</string>
+    <string name="description">Description</string>
+    <string name="materialCode">Material Code</string>
+    <string name="batchNumber">Batch Number</string>
+    <string name="all_permission_req">All permission are required!</string>
+    <string name="cam_storage_perm_title"><![CDATA[Camera & Storage permission]]></string>
+    <string name="cam_storage_perm_msg">Both camera and storage permission are needed to perform scanning</string>
+    <string name="all_perm_granted">All permission granted!</string>
+
+
+
+    <string name="language">Language</string>
+    <string name="settings">Settings</string>
+    <string name="plantNo">Plant No.</string>
+    <string name="server1">Server#1 IP</string>
+    <string name="server2">Server#2 IP</string>
+    <string name="forkliftId">Forklift ID</string>
+    <string name="inCoordinates">In Coordinates</string>
+    <string name="save">Save</string>
+    <string name="port">Port</string>
+    <string name="forkliftConfiguration">Forklift Configuration</string>
+    <string name="forkliftCode">Registration Number</string>
+    <string name="chasisNo">Chasis No</string>
+    <string name="qr_scanner">QR Scanner</string>
+    <string name="cancel">cancel</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting..</string>
+    <string name="loaded">Loaded</string>
+    <string name="unloaded">Un Loaded</string>
+    <string name="error">Error</string>
+    <string name="waiting">Waiting</string>
+    <string name="starting">Starting..</string>
+    <string name="manual_scan">Manual Scan</string>
+    <string name="location">Location</string>
+    <string name="okay">Okay</string>
+    <string name="loader">Sensor Status</string>
+    <string name="camera_disconected">Camera Stream Disconnected!</string>
+    <string name="location_outside_the_prem">Location is outside the define premises!</string>
+    <string name="bad_loc_add_manual">\"Bad Location. Need to add this Drop Off Manually!\"</string>
+    <string name="bad_qr_code_manual">\"Bad QR Code. Need to add this Drop Off Manually!\"</string>
+    <string name="not_save">Nothing to change!</string>
+    <string name="no_network">Network communication failed!</string>
+    <string name="login_failed">Login Failed!</string>
+    <string name="no_intenet">Not internet connection found!</string>
+    <string name="qr_code_failed">Invalid QR Code</string>
+    <string name="making_network_call">Making a Network call Please wait....</string>
+    <string name="selection">Selection</string>
+    <string name="sel_left_right">Please select Left/Right first!</string>
+    <string name="sel_zone">Please select Zone first!</string>
+    <string name="exit_msg">Are you sure. You want to Exit?</string>
+    <string name="setting_update_msg">Setting Update Successfully</string>
+    <string name="searching">Searching....</string>
+
+    <string name="qr_value">QR Value:</string>
+
+    <string name="operation_mode">Operation Mode:</string>
+    <string name="mode">Mode</string>
+
+    <string name="_default">Default</string>
+    <string name="location_guide">Location Guide</string>
+    <string name="pallet_details">Pallet Details</string>
+    <string name="serial_number">Serial Number:</string>
+
+    <string name="material">Material :</string>
+
+    <string name="batch">Batch :</string>
+
+    <string name="processtime">ProcessTime :</string>
+    <string name="no_value">No Value</string>
+
+    <string name="search">Search</string>
+    <string name="satellite">Satellite</string>
+
+    <string name="plant_no">Plant No.</string>
+    <string name="server_1_ip">Server#1 IP</string>
+    <string name="loading_sensor">Loading Sensor</string>
+
+    <string name="server_2_ip">Server#2 IP</string>
+    <string name="location_sensor">Location Sensor</string>
+
+    <string name="forklift_id">Forklift ID:</string>
+    <string name="vizix_server">Vizix Server:</string>
+    <string name="is_this_pallet_shipped_to_truck">Is this pallet Shipped To Truck?</string>
+    <string name="shipped_to_truck">Is this pallet Shipped To Truck?</string>
+    <string name="qr_code_">QR Code:</string>
+    <string name="zone">Zone:</string>
+    <string name="waiting_">Waiting..</string>
+    <string name="normal">Normal</string>
+    <string name="live_view">Live View</string>
+    <string name="motion_sensor">Motion Sensor</string>
+    <string name="default_operation">Default Operation</string>
+    <string name="picked">Picked</string>
+    <string name="register_device">Register Device</string>
+    <string name="clear">clear</string>
+
+    <string-array name="array1">
+        <item>English</item>
+        <item>Arabic</item>
+    </string-array>
+
+<!--    Self Scan project String-->
+
+    <string name="unlock">Unlock</string>
+    <string name="poweredBy">Powered by:</string>
+    <string name="welcome">Welcome to \n the Store of the Future</string>
+    <string name="start">Start</string>
+    <string name="customerID">Customer ID#</string>
+    <string name="scan">Scan</string>
+    <string name="detail">Detail</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="recipe">Recipe</string>
+    <string name="addToCart">Add to Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="total">Total</string>
+
+</resources>
